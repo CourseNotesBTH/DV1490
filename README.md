@@ -16,7 +16,7 @@ See also [Programming Courses at BTH](https://github.com/ProgrammingCoursesBTH)
 There are some different type of files that you may come across in each course note repository. For your convenience they and their contents are labeled as follows:
 
 | Symbol | Meaning |
-| :----: | :-----: |
+| :----: | ----- |
 | ✅  | Complete course notes. Usually containing examples and structure similar to that of the lectures' |
 | 📝 | Revision notes. Usually short summaries and examples for use before an exam |
 | ⚠️ | Incomplete notes. May be lacking notes from lectures or be otherwise incomplete |
