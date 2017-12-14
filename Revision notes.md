@@ -61,7 +61,7 @@ För att balansera sig själv kan trädet göra följande:
 ##### Vänster-rotation
 ![Image](https://github.com/CourseNotesBTH/DV1490/raw/master/assets/00.jpg)
 ##### Höger-rotation
-![Image](https://github.com/CourseNotesBTH/DV1490/raw/master/assets/01.png)
+![Image](https://github.com/CourseNotesBTH/DV1490/raw/master/assets/01.jpg)
 ##### Vänster-höger-rotation
 ![Image](https://github.com/CourseNotesBTH/DV1490/raw/master/assets/02.jpg)
 ##### Höger-vänster-rotation
