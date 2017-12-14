@@ -27,9 +27,18 @@ There are some different type of files that you may come across in each course n
 # Table of contents
 
 [Quickstart](#quickstart)<br/>
+[Content]("#content")<br />
 [Purpose of the repository]("#purpose")<br />
 [Contributing](#contributing)<br/>
 [Disclaimer](#disclaimer)
+
+# Content
+<a name="content"></a>
+
+| File name | Labels | Description |
+| :-------: | :----: | :---------: |
+| Revision notes.md | 📝  🇸🇪  | Revision notes from 2017|
+| Revision notes.pdf | 📝  🇸🇪  | Rendered version of the above file|
 
 # Purpose of the repository
 <a name="purpose"></a>
