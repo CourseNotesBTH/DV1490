@@ -36,7 +36,7 @@ There are some different type of files that you may come across in each course n
 <a name="content"></a>
 
 | File name | Labels | Description |
-| :-------: | :----: | :---------: |
+| --------- | :----: | ----------- |
 | Revision notes.md | 📝  🇸🇪  | Revision notes from 2017|
 | Revision notes.pdf | 📝  🇸🇪  | Rendered version of the above file|
 
