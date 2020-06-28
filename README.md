@@ -24,6 +24,28 @@ There are some different type of files that you may come across in each course n
 | 🇸🇪 | Written in Swedish |
 | 🇬🇧 | Written in English |
 
+Each folder in this repository holds a PDF file explaining the assignment. If there are help files present, these will be in "helpfiles.zip". Each folder within the assignment folder is a solution to the assignment, contributed by a student.
+
+```
+Cpp_DV1490:
+└───assignments
+│   └───2017
+│       ├───1
+│       │   │   assignment.pdf
+│       │   │   helpfiles.zip
+│       │   └───solutions...
+│       └───2
+│           │   assignment.pdf
+│           │   helpfiles.zip
+│           └───solutions...
+└───projects
+    └───2017
+        └───1
+            │   assignment.pdf
+            │   helpfiles.zip
+            └───solutions...
+```
+
 # Table of contents
 
 [Quickstart](#quickstart)<br/>
